@@ -1,0 +1,11 @@
+@import "./components/Block/Block.css";
+
+body {
+	margin: 0;
+}
+
+body .header {
+	margin-left: 15px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}

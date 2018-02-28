@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BEM-block</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="Masthead">
+      <div class="Masthead-header">Main Header</div>
+    </div >
+    <div class="Block">
+    <div class="Block__header">Block</div>
+    <div class="Block__content">
+    <div class="Block__description-content">
+    Here's some description to text, really boring but here for a purpose.
+    </div>
+    </div>
+    </div>
+  </body>
+</html>
